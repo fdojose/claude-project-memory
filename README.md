@@ -4,7 +4,7 @@ A file-based project memory for [Claude Code](https://claude.com/claude-code), b
 
 Claude Code already has a context window, a `CLAUDE.md` it reads at every start, and its own "auto memory". This is a different take: a memory that keeps **what only the memory knows** — decisions with their reasons, approaches that failed, constraints measured in the real world — and lets the rest go.
 
-It is the memory behind the article [It's the Memory, Stupid!](https://medium.com/@fernando.dougnac).
+It is the memory behind the article [It's the Memory, Stupid!](https://medium.com/@fernando.dougnac/its-the-memory-stupid-why-the-big-problem-of-ai-is-not-intelligence-5c86310d32b1).
 
 ## What it does
 
